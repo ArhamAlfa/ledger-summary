@@ -53,11 +53,11 @@
       "wallets": [
         {
           "name": "Allowance",
-          "balance": -1772241
+          "balance": -3544482
         },
         {
           "name": "Savings",
-          "balance": 5000000
+          "balance": 6772241
         }
       ]
     },
