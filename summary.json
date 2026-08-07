@@ -1,0 +1,76 @@
+{
+  "updated": "2026-08-07T22:56",
+  "daysRemaining": 25,
+  "headline": {
+    "account": "Touch 'n Go",
+    "currency": "MYR",
+    "remaining": 0,
+    "perDay": 0
+  },
+  "accounts": [
+    {
+      "name": "Touch 'n Go",
+      "currency": "MYR",
+      "total": 0,
+      "wallets": [
+        {
+          "name": "Eating out",
+          "balance": 0
+        },
+        {
+          "name": "Groceries",
+          "balance": 0
+        },
+        {
+          "name": "Impulse",
+          "balance": 0
+        },
+        {
+          "name": "Transport",
+          "balance": 0
+        },
+        {
+          "name": "Essentials",
+          "balance": 0
+        }
+      ]
+    },
+    {
+      "name": "Cash",
+      "currency": "MYR",
+      "total": 60,
+      "wallets": [
+        {
+          "name": "On hand",
+          "balance": 60
+        }
+      ]
+    },
+    {
+      "name": "BCA",
+      "currency": "IDR",
+      "total": 0,
+      "wallets": [
+        {
+          "name": "Allowance",
+          "balance": 0
+        },
+        {
+          "name": "Savings",
+          "balance": 0
+        }
+      ]
+    },
+    {
+      "name": "Card",
+      "currency": "USD",
+      "total": 0,
+      "wallets": [
+        {
+          "name": "Subscriptions",
+          "balance": 0
+        }
+      ]
+    }
+  ]
+}
