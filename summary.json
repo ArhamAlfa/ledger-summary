@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T23:06",
+  "updated": "2026-08-07T23:07",
   "daysRemaining": 25,
   "headline": {
     "account": "Touch 'n Go",
@@ -53,11 +53,11 @@
       "wallets": [
         {
           "name": "Allowance",
-          "balance": -3544482
+          "balance": -1772241
         },
         {
           "name": "Savings",
-          "balance": 6772241
+          "balance": 5000000
         }
       ]
     },
