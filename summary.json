@@ -38,11 +38,11 @@
     {
       "name": "Cash",
       "currency": "MYR",
-      "total": 60,
+      "total": 52,
       "wallets": [
         {
           "name": "On hand",
-          "balance": 60
+          "balance": 52
         }
       ]
     },
