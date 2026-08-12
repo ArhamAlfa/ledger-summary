@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T03:55",
+  "updated": "2026-08-13T03:59",
   "daysRemaining": 19,
   "headline": {
     "account": "Touch 'n Go",
@@ -15,7 +15,7 @@
       "wallets": [
         {
           "name": "Eating out",
-          "balance": -37.8
+          "balance": 62.2
         },
         {
           "name": "Groceries",
@@ -31,7 +31,7 @@
         },
         {
           "name": "Essentials",
-          "balance": 438.44
+          "balance": 338.44
         }
       ]
     },
