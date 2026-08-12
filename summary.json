@@ -64,11 +64,11 @@
     {
       "name": "Card",
       "currency": "USD",
-      "total": 20,
+      "total": 0,
       "wallets": [
         {
           "name": "Subscriptions",
-          "balance": 20
+          "balance": 0
         }
       ]
     }
