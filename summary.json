@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T07:51",
+  "updated": "2026-08-27T07:52",
   "daysRemaining": 5,
   "headline": {
     "account": "Touch 'n Go",
@@ -19,11 +19,11 @@
         },
         {
           "name": "Groceries",
-          "balance": 0
+          "balance": -3.45
         },
         {
           "name": "Impulse",
-          "balance": -0.39
+          "balance": 3.06
         },
         {
           "name": "Transport",
