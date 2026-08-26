@@ -15,11 +15,11 @@
       "wallets": [
         {
           "name": "Eating out",
-          "balance": 3.45
+          "balance": 0
         },
         {
           "name": "Groceries",
-          "balance": -3.45
+          "balance": 0
         },
         {
           "name": "Impulse",
