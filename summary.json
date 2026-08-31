@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-01T06:53",
+  "updated": "2026-09-01T07:46",
   "daysRemaining": 30,
   "headline": {
     "account": "Touch 'n Go",
     "currency": "MYR",
-    "remaining": 0,
-    "perDay": 0
+    "remaining": 227.6,
+    "perDay": 7.59
   },
   "accounts": [
     {
       "name": "Touch 'n Go",
       "currency": "MYR",
-      "total": 0,
+      "total": 227.6,
       "wallets": [
         {
           "name": "Eating out",
@@ -31,6 +31,10 @@
         },
         {
           "name": "Essentials",
+          "balance": 227.6
+        },
+        {
+          "name": "Relationship",
           "balance": 0
         }
       ]
@@ -49,7 +53,7 @@
     {
       "name": "BCA",
       "currency": "IDR",
-      "total": 1176693,
+      "total": 149917,
       "wallets": [
         {
           "name": "Allowance",
@@ -57,7 +61,7 @@
         },
         {
           "name": "Savings",
-          "balance": 1176693
+          "balance": 149917
         }
       ]
     },
