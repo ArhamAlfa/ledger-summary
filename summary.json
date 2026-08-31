@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T05:51",
-  "daysRemaining": 0,
+  "updated": "2026-09-01T06:53",
+  "daysRemaining": 30,
   "headline": {
     "account": "Touch 'n Go",
     "currency": "MYR",
@@ -15,15 +15,15 @@
       "wallets": [
         {
           "name": "Eating out",
-          "balance": -114
+          "balance": 0
         },
         {
           "name": "Groceries",
-          "balance": -3.8
+          "balance": 0
         },
         {
           "name": "Impulse",
-          "balance": -15.94
+          "balance": 0
         },
         {
           "name": "Transport",
@@ -31,7 +31,7 @@
         },
         {
           "name": "Essentials",
-          "balance": 133.74
+          "balance": 0
         }
       ]
     },
@@ -53,11 +53,11 @@
       "wallets": [
         {
           "name": "Allowance",
-          "balance": -1026775
+          "balance": 0
         },
         {
           "name": "Savings",
-          "balance": 2203468
+          "balance": 1176693
         }
       ]
     },
