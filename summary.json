@@ -4,14 +4,14 @@
   "headline": {
     "account": "Touch 'n Go",
     "currency": "MYR",
-    "remaining": 226.6,
-    "perDay": 7.55
+    "remaining": 227.6,
+    "perDay": 7.59
   },
   "accounts": [
     {
       "name": "Touch 'n Go",
       "currency": "MYR",
-      "total": 226.6,
+      "total": 227.6,
       "wallets": [
         {
           "name": "Eating out",
@@ -23,7 +23,7 @@
         },
         {
           "name": "Impulse",
-          "balance": -1
+          "balance": 0
         },
         {
           "name": "Transport",
