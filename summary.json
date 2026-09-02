@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-01T13:26",
-  "daysRemaining": 30,
+  "updated": "2026-09-02T08:02",
+  "daysRemaining": 29,
   "headline": {
     "account": "Touch 'n Go",
     "currency": "MYR",
     "remaining": 186,
-    "perDay": 6.2
+    "perDay": 6.41
   },
   "accounts": [
     {
@@ -53,11 +53,11 @@
     {
       "name": "BCA",
       "currency": "IDR",
-      "total": 149917,
+      "total": 6149917,
       "wallets": [
         {
           "name": "Allowance",
-          "balance": 0
+          "balance": 6000000
         },
         {
           "name": "Savings",
