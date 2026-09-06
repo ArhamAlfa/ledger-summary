@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:07",
+  "updated": "2026-09-06T18:08",
   "daysRemaining": 25,
   "headline": {
     "account": "Touch 'n Go",
@@ -53,11 +53,11 @@
     {
       "name": "BCA",
       "currency": "IDR",
-      "total": 6420961,
+      "total": 6370961,
       "wallets": [
         {
           "name": "Allowance",
-          "balance": 4878224
+          "balance": 4828224
         },
         {
           "name": "Savings",
