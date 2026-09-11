@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T14:22",
+  "updated": "2026-09-11T14:37",
   "daysRemaining": 20,
   "headline": {
     "account": "Touch 'n Go",
@@ -79,11 +79,11 @@
     {
       "name": "GrabWallet",
       "currency": "MYR",
-      "total": 100,
+      "total": 96.6,
       "wallets": [
         {
           "name": "Main",
-          "balance": 100
+          "balance": 96.6
         }
       ]
     }
