@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T08:35",
+  "updated": "2026-09-12T10:08",
   "daysRemaining": 19,
   "headline": {
     "account": "Touch 'n Go",
@@ -53,7 +53,7 @@
     {
       "name": "BCA",
       "currency": "IDR",
-      "total": 5680604.59,
+      "total": 5282784.59,
       "wallets": [
         {
           "name": "Allowance",
@@ -61,7 +61,7 @@
         },
         {
           "name": "Savings",
-          "balance": 1295388
+          "balance": 897568
         }
       ]
     },
@@ -73,17 +73,6 @@
         {
           "name": "Subscriptions",
           "balance": 0
-        }
-      ]
-    },
-    {
-      "name": "GrabWallet",
-      "currency": "MYR",
-      "total": 60.61,
-      "wallets": [
-        {
-          "name": "Main",
-          "balance": 60.61
         }
       ]
     }
