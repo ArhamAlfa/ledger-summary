@@ -79,11 +79,11 @@
     {
       "name": "GrabWallet",
       "currency": "MYR",
-      "total": 73.41,
+      "total": 60.61,
       "wallets": [
         {
           "name": "Main",
-          "balance": 73.41
+          "balance": 60.61
         }
       ]
     }
