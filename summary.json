@@ -4,18 +4,18 @@
   "headline": {
     "account": "Touch 'n Go",
     "currency": "MYR",
-    "remaining": -85.1,
-    "perDay": -4.48
+    "remaining": 154.9,
+    "perDay": 8.15
   },
   "accounts": [
     {
       "name": "Touch 'n Go",
       "currency": "MYR",
-      "total": -85.1,
+      "total": 154.9,
       "wallets": [
         {
           "name": "Eating out",
-          "balance": -237.4
+          "balance": 2.6
         },
         {
           "name": "Groceries",
@@ -53,11 +53,11 @@
     {
       "name": "BCA",
       "currency": "IDR",
-      "total": 5282784.59,
+      "total": 4217604.59,
       "wallets": [
         {
           "name": "Allowance",
-          "balance": 4385216.59
+          "balance": 3320036.59
         },
         {
           "name": "Savings",
