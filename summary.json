@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-15T12:34",
+  "updated": "2026-09-15T12:35",
   "daysRemaining": 16,
   "headline": {
     "account": "Touch 'n Go",
     "currency": "MYR",
-    "remaining": 119.86,
-    "perDay": 7.49
+    "remaining": 97.2,
+    "perDay": 6.08
   },
   "accounts": [
     {
       "name": "Touch 'n Go",
       "currency": "MYR",
-      "total": 119.86,
+      "total": 97.2,
       "wallets": [
         {
           "name": "Eating out",
@@ -31,7 +31,7 @@
         },
         {
           "name": "Essentials",
-          "balance": 583.96
+          "balance": 561.3
         },
         {
           "name": "Relationship",
