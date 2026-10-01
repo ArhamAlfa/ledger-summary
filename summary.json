@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-27T03:58",
-  "daysRemaining": 4,
+  "updated": "2026-10-02T01:15",
+  "daysRemaining": 30,
   "headline": {
     "account": "Touch 'n Go",
     "currency": "MYR",
-    "remaining": 207.65,
-    "perDay": 51.91
+    "remaining": 189.97,
+    "perDay": 6.33
   },
   "accounts": [
     {
       "name": "Touch 'n Go",
       "currency": "MYR",
-      "total": 207.65,
+      "total": 189.97,
       "wallets": [
         {
           "name": "Eating out",
-          "balance": -161.91
+          "balance": -15.79
         },
         {
           "name": "Groceries",
-          "balance": -123.95
+          "balance": 0
         },
         {
           "name": "Impulse",
-          "balance": -393.54
+          "balance": -39.5
         },
         {
           "name": "Transport",
-          "balance": 0.5
+          "balance": 0
         },
         {
           "name": "Essentials",
-          "balance": 1151.95
+          "balance": 309.65
         },
         {
           "name": "Relationship",
-          "balance": -265.4
+          "balance": -64.39
         }
       ]
     },
@@ -53,15 +53,15 @@
     {
       "name": "BCA",
       "currency": "IDR",
-      "total": 708896.59,
+      "total": 10137350.79,
       "wallets": [
         {
           "name": "Allowance",
-          "balance": 1228406.59
+          "balance": -1026450
         },
         {
           "name": "Savings",
-          "balance": -519510
+          "balance": 11163800.79
         }
       ]
     },
@@ -73,6 +73,39 @@
         {
           "name": "Subscriptions",
           "balance": 0
+        }
+      ]
+    },
+    {
+      "name": "GrabWallet",
+      "currency": "MYR",
+      "total": 0.44,
+      "wallets": [
+        {
+          "name": "Main",
+          "balance": 0.44
+        }
+      ]
+    },
+    {
+      "name": "Maybank ID",
+      "currency": "IDR",
+      "total": 0,
+      "wallets": [
+        {
+          "name": "Maybank",
+          "balance": 0
+        }
+      ]
+    },
+    {
+      "name": "Gold",
+      "currency": "g",
+      "total": 4.27,
+      "wallets": [
+        {
+          "name": "Gold",
+          "balance": 4.27
         }
       ]
     }
