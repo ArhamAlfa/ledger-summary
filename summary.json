@@ -53,11 +53,11 @@
     {
       "name": "BCA",
       "currency": "IDR",
-      "total": 10137350.79,
+      "total": 10042350.79,
       "wallets": [
         {
           "name": "Allowance",
-          "balance": -1026450
+          "balance": -1121450
         },
         {
           "name": "Savings",
